@@ -10,7 +10,8 @@ original interpreters (`vm/nga-c/barebones`).
 
 It runs in [Foenix IDE](https://github.com/Trinity-11/FoenixIDE), 
 it is also possible to run current, unmodified version of this 
-port on [go65c816 emulator](https://github.com/aniou/go65c816).
+port on [go65c816 emulator](https://github.com/aniou/go65c816) 
+(use `retro.ini` parameters file here).
 
 ## obligatory screenshot
-
+![sample run](Screenshot_20210222_213209.png)  
