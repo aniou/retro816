@@ -172,9 +172,7 @@ main0       .setaxl
             jsr  prints
 
             jsr  prepare_vm
-            wdm  #11
             jsr  execute
-            wdm  #11
 
             .sdb `msg_end
             ldx  #<>msg_end
