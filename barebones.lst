@@ -1,11 +1,11 @@
 
 ; 64tass Turbo Assembler Macro V1.55.2200 listing file
-; 64tass -Wall -Wmacro-prefix -Wshadow --verbose-list -o nga.hex -L nga.lst --intel-hex --m65816 nga.asm
-; Sun Feb 28 22:41:42 2021
+; 64tass -Wall -Wmacro-prefix -Wshadow --verbose-list -o barebones.hex -L barebones.lst --intel-hex --m65816 barebones.asm
+; Sun Feb 28 22:43:34 2021
 
 ;Offset	;Hex		;Monitor	;Source
 
-;******  Processing input file: nga.asm
+;******  Processing input file: barebones.asm
 
 					; Copyright 2021 Piotr Meyer <aniou@smutek.pl>
 					;
@@ -58,7 +58,7 @@
 					            .endm
 
 
-;******  Return to file: nga.asm
+;******  Return to file: barebones.asm
 
 
 					;----------------------------------------------------------
