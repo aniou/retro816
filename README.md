@@ -18,6 +18,10 @@ port on [go65c816 emulator](https://github.com/aniou/go65c816)
 
 ![sample run](barebones-2021-02-28.png)  
 
+## building
+
+You will need a [64tass](http://tass64.sourceforge.net/) assembler.
+
 ## rough edges
 
 * inst_di is somewhat borken - it is very crude and doesn't works
